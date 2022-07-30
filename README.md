@@ -2,12 +2,10 @@
 
 ## Overview of the analysis
 
-For this project, I was asked to analyze all the rideshare data from January to early May of 2019. I performed the analysis in Jupyter Notebook and created a multiple-line chart to visualize the data in a single compelling visual.
-
+For this project, I was asked to analyze all the rideshare data from January to the end of April of 2019. I performed the analysis in Jupyter Notebook and created a multiple-line chart to visualize the data in a single compelling visual.
 
 ## Results
 
-Summary:
 When looking at the ride sharing data for each city type, I analyzed the following categories: total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
 
 Total Rides per city type trended upward from Rural to Suburban and then up to Urban city types as expected. Fewer people live in rural areas so fewer total rides were both anticipated and identified for this city type. Looking at suburban cities, I anticipated an increase over total rides for rural cities. The data shows an increase from 125 total rides for rurual cities to 625 total rides for suburban cities. Lastly, I anticipated urban cities having the highest number of total rides out of the three city types and I identified there were 1625 total rides for this category. See the image below for reference.  
@@ -31,6 +29,9 @@ Average Fare per Ride and Driver brought another anticipated result. We can anti
 ## Summary
 
 To increase revenue in rural cities, implementing discounts for rides may increase the number of total rides taken. This would, in turn, potentially increase the overall revenue for PyBer. We also see that January is the lowest month for total fare for urban and suburan cities. Increasing marketing and offering discounts during this month may increase ride demand and drive more revenue. Lastly, we see suburban cities increase total fare in April. Further insight into the "why" may uncover ways to increase total fare for urban and rural cities in the month of April.
+
+![PyBer_fare_summary](https://user-images.githubusercontent.com/101153516/181994413-18397fc6-2449-468a-918a-130a18b267ce.png)
+
 
 
 
