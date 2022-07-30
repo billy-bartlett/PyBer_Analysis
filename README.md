@@ -28,8 +28,6 @@ Average Fare per Ride and Driver brought another anticipated result. We can anti
 
 ![Average_Fare_per_Driver](https://user-images.githubusercontent.com/101153516/181967132-f058f097-c50f-477a-928b-dbd71af20901.jpg)
 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
-
 ## Summary
 
 To increase revenue in rural cities, implementing discounts for rides may increase the number of total rides taken. This would, in turn, potentially increase the overall revenue for PyBer. We also see that January is the lowest month for total fare for urban and suburan cities. Increasing marketing and offering discounts during this month may increase ride demand and drive more revenue. Lastly, we see suburban cities increase total fare in April. Further insight into the "why" may uncover ways to increase total fare for urban and rural cities in the month of April.
